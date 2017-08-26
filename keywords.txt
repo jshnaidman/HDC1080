@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For HDC1080
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getTemp	KEYWORD2
+getRelativeHumidity	KEYWORD2
+getTempHumid	KEYWORD2
+configure	KEYWORD2
+readTempHumid	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+HDC1080	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ADDR	LITERAL1
